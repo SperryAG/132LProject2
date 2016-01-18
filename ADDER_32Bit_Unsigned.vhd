@@ -1,3 +1,5 @@
+--VERISION 1.0 GIT EDIT--
+
 ----------------------------------------------------------------------------------
 -- Create Date:    22:02:44 01/16/2016 
 -- Module Name:    ADDER_32Bit_Unsigned - Behavioral 
